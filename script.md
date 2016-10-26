@@ -7,10 +7,10 @@ Notes for Pootle FS Git demo
 - [Install pootle_fs_git](http://docs.translatehouse.org/projects/pootle/en/latest/features/pootle_fs_install_plugins.html)
 - [Setup a Pootle FS git project](http://docs.translatehouse.org/projects/pootle/en/latest/features/pootle_fs_add_project.html)
 
-  - Choose **git** backend
-  - Use **git@github.com:translate/pootle_fs_demo.git** URL
-  - Specify **/<language_code>/<dir_path>/<filename>.<ext>** mapping
-  - Add mapping for **es_ES** to **es**
+  - Choose ``git`` backend
+  - Use ``git@github.com:translate/pootle_fs_demo.git`` URL
+  - Specify ``/<language_code>/<dir_path>/<filename>.<ext>`` mapping
+  - Add mapping for ``es_ES`` to ``es``
 
 - [Terms you need to know now](http://docs.translatehouse.org/projects/pootle/en/latest/features/pootle_fs.html#core-concepts)
 - The demo itself:
