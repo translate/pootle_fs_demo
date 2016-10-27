@@ -4,6 +4,7 @@ Notes for Pootle FS Git demo
 
 
 - Everybody has a working Pootle setup, right?
+- Uncomment plugin line in `requirements/_pootle_fs.txt`
 - [Install pootle_fs_git](http://docs.translatehouse.org/projects/pootle/en/latest/features/pootle_fs_install_plugins.html)
 - [Setup a Pootle FS git project](http://docs.translatehouse.org/projects/pootle/en/latest/features/pootle_fs_add_project.html)
 
